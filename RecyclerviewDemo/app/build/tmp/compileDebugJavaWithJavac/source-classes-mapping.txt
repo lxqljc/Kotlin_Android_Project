@@ -1,2 +1,0 @@
-com/lxqljc/recyclerviewdemo/BuildConfig.java
- com.lxqljc.recyclerviewdemo.BuildConfig
